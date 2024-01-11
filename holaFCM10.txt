@@ -1,0 +1,2 @@
+"La informática tiene que ver con los ordenadores lo mismo que la astronomía con los telescopios" FCM10 
+   -- Edsger W. Dijkstra
